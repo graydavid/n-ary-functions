@@ -20,6 +20,6 @@ String result = function.apply(5.0, 3, false);
 System.out.println(result); // Prints "5.03false"
 ```
 
-##Contributions
+## Contributions
 
 Contributions are welcome! See the [graydavid-parent](https://github.com/graydavid/graydavid-parent) project for details.
